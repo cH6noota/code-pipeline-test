@@ -1,0 +1,7 @@
+{
+  "name": "code-pipeline-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
